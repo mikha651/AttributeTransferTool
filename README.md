@@ -25,7 +25,7 @@ This plugin allows you to transfer attribute values from a source vector layer t
 - QGIS 3.0 or higher
 
 ### 📧 Contact
-Created by **Michel El Hourani**  
+Created by **mikha651**  
 Email: michel651@gmail.com
 
 ---
