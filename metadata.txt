@@ -1,0 +1,18 @@
+[general]
+name=AttributeTransferTool
+description=Transfer attributes between features using spatial relationships like intersects, contains, touches, or vertex match.
+about=A versatile QGIS plugin that allows users to transfer attribute values from one layer to another based on configurable spatial relationships. Supports any geometry type and a variety of matching options including intersects, contains, within, touches, equals, and exact vertex match.
+version=1.0.0
+qgisMinimumVersion=3.0
+author=mikha651
+email=michel651@gmail.com
+homepage=https://github.com/mikha651/AttributeTransferTool
+repository=https://github.com/mikha651/AttributeTransferTool
+tracker=https://github.com/mikha651/AttributeTransferTool/issues
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+
+[help]
+changelog=CHANGELOG.md
